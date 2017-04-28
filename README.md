@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/hexo-tag-snack.svg)](https://badge.fury.io/js/hexo-tag-snack)
+
 hexo-tag-snack
 ==============
 
