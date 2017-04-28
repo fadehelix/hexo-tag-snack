@@ -1,6 +1,5 @@
 'use strict';
-// {%snack snack-id snack-platform snack-preview %}
-// {%snack data-snack-id="r1WUzhlJW" data-snack-platform="ios" data-snack-preview="true" %}
+
 hexo.extend.tag.register('snack', function(args, content){
     var id = args[0];
     var platform = args[1];
