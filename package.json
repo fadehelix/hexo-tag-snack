@@ -1,0 +1,29 @@
+{
+  "name": "hexo-tag-snack",
+  "version": "0.1.0",
+  "description": "Hexo tag to embed code from snack.expo.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+	  "url": "https://github.com/fadehelix/hexo-tag-snack/issues"
+  },
+  "keywords": [
+    "hexo",
+    "tag",
+    "plugin",
+    "snack",
+    "fadehelix"
+  ],
+  "author": {
+	"email": "fadehelix@gmail.com",
+	"name": "fadehelix",
+	"url": "https://fadehelix.github.io"
+  },
+  "license": "MIT",
+  "repository": {
+	  "type": "git",
+	  "url": "git+https://github.com/fadehelix/hexo-tag-snack.git"
+  }
+}
